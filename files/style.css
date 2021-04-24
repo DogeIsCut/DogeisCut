@@ -11,4 +11,5 @@ body {
 a {
   color: hotpink;
   font: "Tahoma";
+  text-shadow: none;
 }
