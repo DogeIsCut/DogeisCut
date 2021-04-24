@@ -4,4 +4,6 @@ body {
   font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font: "Kulim Park";
   text-align: center;
+  font-size: 200%;
+  font-weight: bold;
 }
