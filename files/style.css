@@ -12,7 +12,7 @@ body {
   font-size: 600%;
   font-weight: bold;
   text-shadow: 0px 15px #000000;
-  line-height: 0px;
+  line-height: 80px;
   animation-name: entrancefade;
   animation-duration: 2s;
 }
