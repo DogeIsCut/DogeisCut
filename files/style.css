@@ -16,9 +16,32 @@ body {
   animation-name: entrancefade;
   animation-duration: 2s;
 }
+
 a {
   color: hotpink;
   font: "Tahoma";
   text-shadow: none;
   font-size: 40px;
 }
+
+    .topnav {
+      overflow: hidden;
+      background-color: #0c0c10;
+    }
+    .topnav a {
+      float: left;
+      color: white;
+      text-align: center;
+      padding: 14px 3px;
+      text-decoration: none;
+      font-size: 30px;
+      margin: 0px 20px
+    }
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    .topnav a.active {
+      background-color: hotpink;
+      color: purple;
+    }
