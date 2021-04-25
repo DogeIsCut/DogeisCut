@@ -15,7 +15,6 @@ body {
   line-height: 80px;
   animation-name: entrancefade;
   animation-duration: 2s;
-  margin: 0px 30px 0px 30px
 }
 
 a {
@@ -33,10 +32,9 @@ a {
   float: left;
   color: white;
   text-align: center;   
-  padding: 14px 3px;
+  padding: 5px 3px;
   text-decoration: none;
   font-size: 30px;
-  margin: 0px 30px 0px 30px
 }
 .topnav a:hover {
   background-color: #ddd;
