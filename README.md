@@ -1,3 +1,1 @@
 # dogeiscut.github.io
-
-r
