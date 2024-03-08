@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f8f8f8;
@@ -51,4 +51,17 @@ h1, h2, h3, h4, h5 {
 
 .subtext {
     color: #95a5a6;
+}
+
+.project_media_carousel {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.project_media_carousel img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-right: 10px;
+    display: inline-block;
 }
