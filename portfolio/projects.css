@@ -57,10 +57,6 @@ h1, h2, h3, h4, h5 {
     text-decoration: none;
 }
 
-.subtext {
-    color: #95a5a6;
-}
-
 .project_media_carousel {
     overflow-x: auto;
     white-space: nowrap;
