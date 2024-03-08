@@ -14,11 +14,19 @@ h1, h2, h3, h4, h5 {
     color: #95a5a6;
 }
 
-#logo {
+.banner {
+    background-image: url('assets/main_banner.png');
+    background-size: cover; 
+    background-position: center;
+    text-align: center;
+    height: 200px;
+}
+
+.logo {
     max-width: 100%;
     height: auto;
-    display: block;
-    margin: 20px auto;
+    display: inline-block;
+    margin: 20px 0;
 }
 
 .section {
