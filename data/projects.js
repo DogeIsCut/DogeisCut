@@ -34,17 +34,19 @@ var projects = {
 					"assets": "/assets/portfolio/projects/games/dds/",
 					"logo": "logo.png",
 					"carousel_images": [
-						"_7FfE2.png",
+						"W7FfE2.png",
 						"CQuhGF.png",
 						"F_JqIF.png",
 						"WwvfDJ.png",
 						"86fQFS.png",
 						"Godot_v4.3-stable_win64_eBRrYHalkI.png",
+						"Godot_v4.3-stable_win64_IgEDo357fh.png",
+						"Godot_v4.3-stable_win64_Jl0GqPBCOx.png",
 					],
 					"description": "\"Explore the never-ending catacombs of the video game representation of my mind. In here, you'll find all the aspects of what makes me, me, and perhaps you'll see some familiar faces. Around every corner, there are Collectacrystals to find, your reward for exploring. They come in many shapes and sizes, but one thing stays the same. You must collect them! In this world you find many interesting characters. Give them a chat and you might discover something new. Across this world lies many carts, enter the arcade and play mini-games within the dreamscape\" - Itch.io Page Description",
 					"development": {
-						"details": "DogeisCut's Dreamscape is developed in the Godot game engine, version  4.2.",
-						"history": "This is heavily inspired by the b3313 Mario 64 romhack. This would probably not exist if it wasn't for that romhack. This currently is my most developed project."
+						"details": "DogeisCut's Dreamscape is developed in the Godot game engine, version  4.2. Graphically, this is my most interesting project by far, and I've made great use of the music I've composed over the years.",
+						"history": "This is heavily inspired by the b3313 Mario 64 romhack. This would probably not exist if it wasn't for that romhack. This currently is my most developed project, probably my biggest to, and the one I'm most proud of and excited about!"
 					},
 					"external_links": [
 						{
